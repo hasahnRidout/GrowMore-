@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518346346126",
+    "firebase_url": "https://grow-more-7a0c3.firebaseio.com",
+    "project_id": "grow-more-7a0c3",
+    "storage_bucket": "grow-more-7a0c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518346346126:android:15502f028361a7a81c03df",
+        "android_client_info": {
+          "package_name": "com.hashan.grow_more"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518346346126-qv5io4t2bcoaqg49eqv9b15h348elk25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5EIYD7VqMugo3OASVfwuRcvZlMDSJvrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518346346126-qv5io4t2bcoaqg49eqv9b15h348elk25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
